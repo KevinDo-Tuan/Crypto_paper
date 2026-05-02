@@ -21,7 +21,7 @@
 
 ## I. Abstract
 
-This paper examines the fundamental purpose of blockchain technology and its role in shaping the future of digital infrastructure. As artificial intelligence automates an increasing proportion of internet applications, the question of trust in all applications becomes paramount. With this concern in mind, I argue that blockchain-based decentralized autonomous organizations (DAOs) offer a superior governance model compared to centralized parties. The paper is not able to be finished without a thorough self-analysis of blockchain's core mechanisms - immutable transaction records, algorithmic governance, and transparent protocol upgrades, and importantly, the Internet Computer whitepaper: [*whitepaper.pdf*](https://internetcomputer.org/whitepaper.pdf) along with its technology.
+This paper examines the fundamental purpose of blockchain technology and its role in shaping the future of digital infrastructure. As artificial intelligence automates an increasing proportion of internet applications, the question of trust in all applications becomes paramount. With this concern in mind, I argue that blockchain offer a superior governance model compared to centralized parties. The paper is not able to be finished without a thorough self-analysis of blockchain's core mechanisms - immutable transaction records, algorithmic governance, and transparent protocol upgrades, and importantly, the Internet Computer whitepaper: [*whitepaper.pdf*](https://internetcomputer.org/whitepaper.pdf) along with its technology.
 
 ---
 
